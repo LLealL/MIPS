@@ -1,2 +1,2 @@
 # MIPS
-Basic MIPS programs and algorithms
+Basic MIPS programs and algorithms on MARS
