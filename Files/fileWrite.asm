@@ -1,5 +1,5 @@
 .data
-	file: .asciiz ".../data.dat" #Need to specify a Directory that your file will be created on
+	file: .asciiz "/.../MIPS/Files/data.dat" #specify your Directory
 	buffer: .space  32
 	msgInputTxt: .asciiz "Enter with your string data"
 	OpenfileErr: .asciiz "Failed to open File [syscall failed]\n"
