@@ -1,6 +1,6 @@
 .data
 	V: .word 5, 4, 3, 2, 1, 10, 22, 41, 55, 45
-	virg: .asciiz ","
+
 .text
 
 	MAIN:	
