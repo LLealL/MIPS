@@ -52,7 +52,7 @@
 		add $t0,$zero,0
 		lw  $t1,4($sp)
 		lw $s0,0($sp)
-		addi $t1,$t1,-1
+		#addi $t1,$t1,-1
 		
 	 	 	W3:
 	   			slt $t2,$t0,$t1
